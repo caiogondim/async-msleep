@@ -1,7 +1,7 @@
 # async-msleep
 
 <div>
-  <img src="http://travis-ci.org/caiogondim/async-msleep.svg?branch=master" alt="Travis CI">
+<img src="http://travis-ci.org/caiogondim/async-msleep.svg?branch=master" alt="Travis CI">
 </div>
 
 <br>
