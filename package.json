@@ -1,0 +1,29 @@
+{
+  "name": "async-msleep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiogondim/async-msleep.git"
+  },
+  "keywords": [
+    "async",
+    "timeout",
+    "setTimeout",
+    "sleep",
+    "msleep"
+  ],
+  "author": "Caio Gondim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiogondim/async-msleep/issues"
+  },
+  "homepage": "https://github.com/caiogondim/async-msleep#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
